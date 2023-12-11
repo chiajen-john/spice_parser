@@ -1,0 +1,6 @@
+make: compile
+make check: run
+make clean: clean
+
+
+To Do: enable querying resistance
